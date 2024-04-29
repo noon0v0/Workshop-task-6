@@ -1,7 +1,7 @@
 # Workshop 6: Text and language
 
 ## URL:
-
+https://noon0v0.github.io/Workshop_6/
 
 
 ## Tasks:
