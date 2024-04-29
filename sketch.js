@@ -55,6 +55,8 @@ function new_line() {
           }else{
             new_words.push(words[x]);
           }
+        }else{
+          new_words.push(words[x])
         }
       }
       user_line = RiTa.untokenize(new_words)
